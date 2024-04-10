@@ -23,7 +23,7 @@ body{
     }
     .botao{
         background-color: rgb(255, 255, 255);
-        color: rgb(255, 255, 255);
+        color: rgb(0, 0, 0);
         border: none;
         text-align: center;
         padding: 10px 20px;
@@ -32,10 +32,10 @@ body{
     }
     ul{
         font-size: 16px;
-        color: aliceblue;
+        color: rgb(0, 0, 0);
     }
     .cabecalho{
         border-style: groove;
-        border-color: aliceblue;
+        border-color: rgb(0, 0, 0);
         display: flex;
     }
