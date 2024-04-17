@@ -58,4 +58,11 @@ body{
         float: right;
         margin-top: 12%;
     }
+    .container {
+        text-align: left; /* Alinha o conteúdo à esquerda */
+    }
+    
+    .botao {
+        /* Estilos do seu botão */
+    }
     
