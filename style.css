@@ -44,3 +44,16 @@ body{
         border-color: rgb(0, 0, 0);
         display: flex;
     }
+    .container {
+        width: 100%;
+    }
+    
+    .left {
+        float: left;
+        margin-right: 10px; /* Espaço entre as imagens */
+    }
+    
+    .right {
+        float: right;
+    }
+    
