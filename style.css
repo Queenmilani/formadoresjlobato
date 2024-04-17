@@ -25,6 +25,8 @@ body{
 .button{
     display: inline-block;
     padding: 10px 20px;
+    left: 0%;
+    float: left;
     }
     .botao{
         background-color: rgba(158, 144, 99, 0.904);
