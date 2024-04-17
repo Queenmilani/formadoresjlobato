@@ -63,4 +63,7 @@ body{
         float: right;
         margin-top: 12%;
     }
-  
+    .container {
+        text-align: center;
+    }
+    
