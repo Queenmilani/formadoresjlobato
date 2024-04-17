@@ -45,12 +45,12 @@ body{
         display: flex;
     }
     .container {
-        width: 50%;
+        width: 100%;
     }
     
     .left {
         float: left;
-        margin-right: 10px; /* Espaço entre as imagens */
+        margin-right: 100px; /* Espaço entre as imagens */
     }
     
     .right {
