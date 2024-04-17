@@ -56,11 +56,11 @@ body{
     .left {
         float: left;
         margin-right: 1px; /* Espaço entre as imagens */
-        margin-top: 20%;
+        margin-top: 16%;
     }
     
     .right {
         float: right;
-        margin-top: 20%;
+        margin-top: 16%;
     }
   
