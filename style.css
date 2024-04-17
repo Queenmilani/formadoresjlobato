@@ -60,4 +60,5 @@ body{
     }
     section{
         display: flex;
+        margin-right: 0%;
     }
