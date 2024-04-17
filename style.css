@@ -58,4 +58,6 @@ body{
         float: right;
         margin-top: 12%;
     }
-    
+    section{
+        display: flex;
+    }
