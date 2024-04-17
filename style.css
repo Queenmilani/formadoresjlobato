@@ -14,7 +14,8 @@ p{
     font-size: 16px;
     color: rgb(0, 0, 0);
     margin: 2%;
-   left: 0%;
+    position: absolute;
+    left: 2%;
 }
 body{
     background-color: rgb(240, 240, 213);
