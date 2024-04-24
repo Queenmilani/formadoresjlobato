@@ -63,3 +63,15 @@ body{
         float: right;
         margin-top: 12%;
     }
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh; /* Defina a altura conforme necessário */
+      }
+      
+      img {
+        max-width: 100%; /* Garante que a imagem não ultrapasse a largura do contêiner */
+        max-height: 100%; /* Garante que a imagem não ultrapasse a altura do contêiner */
+      }
+      
